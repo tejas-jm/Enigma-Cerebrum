@@ -18,6 +18,7 @@ Enigma Cerebrum is an innovative ensemble model designed for accurate brain tumo
 
 **Download the Pre-Trained Model Weights:**
   - [Keras Files]()
+ 
  **Dataset Information:**
     - **Description:** This dataset contains 7023 images of human brain MRI images classified into 4 classes: glioma, meningioma, no tumor, and pituitary.
     - **Source:** A combination of figshare, SARTAJ dataset, and Br35H.
@@ -28,8 +29,15 @@ Enigma Cerebrum is an innovative ensemble model designed for accurate brain tumo
 
 **Run the Ensemble Model Training Script**
 
-**Contribute:**
-    - Contributions are welcome! If you have ideas, bug reports, or want to add new features, please open an issue or submit a pull request.
+## Model Sets
+
+### All Models Set
+- Includes an ensemble of all available pre-trained models and a custom CNN.
+- Achieves an accuracy of 91% on the provided dataset.
+
+### Subset Models Set
+- Includes a subset of pre-trained models and a custom CNN.
+- Achieves an accuracy of 91% on the provided dataset.
 
 ## About Brain Tumors
 
